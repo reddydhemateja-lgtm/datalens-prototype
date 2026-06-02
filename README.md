@@ -69,7 +69,7 @@ ANTHROPIC_API_KEY=your_key_here node server.js
 ```
 
 ### 4. Open the app
-Go to: **http://localhost:4000**
+Go to: **http://https://datalens-backend-m77f.onrender.com**
 
 ---
 
