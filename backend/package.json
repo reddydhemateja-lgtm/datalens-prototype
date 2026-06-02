@@ -1,0 +1,21 @@
+{
+  "name": "datalens-ai-backend",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "DataLens AI - Intelligent Data Analysis Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "multer": "^1.4.5-lts.1",
+    "csv-parse": "^5.5.0",
+    "xlsx": "^0.18.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
